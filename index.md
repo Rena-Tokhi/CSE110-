@@ -1,7 +1,7 @@
 # Rena Tokhi
 
 ## Picture
-![Image](https://share.google/Nl2y9Yv5byp5FH7G9)
+![Image](https://today.ucsd.edu/news_uploads/_social/PR20240718_SCIDS.jpg)
 
 ## About Me
 Hi! I am Rena. I am a 3rd year Computer Science major student.
